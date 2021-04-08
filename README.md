@@ -120,7 +120,7 @@ Master Password:
 
 Depois de pressionar Enter, vemos nossa senha criptografada entre chaves:
 
-`` 
+``` 
 {QFMlh/6WjF8H9po9UDo0Nv18e527jqWb6mUgIB798n4=}
 ```
 
